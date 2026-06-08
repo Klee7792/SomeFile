@@ -44,7 +44,11 @@ PvZ3 进化解码工具已部署在 GitHub Pages：
 存放 H5GG 的一些主页文件，包含：
 - `Index.html` - 主页面
 - `Index_4.0-Kimi.html` - Kimi 版本页面
+- `Index_9.0.5.html` - 9.0.5 版本页面
+- `Index_9.0.5-en.html` - 9.0.5 英文版本页面
 - `鸭鸭内存工具.html` - 内存工具页面
+- `鸭鸭内存工具v2.0跳转指针版.html` - 内存工具 v2.0 跳转指针版
+- `鸭鸭内存工具v2.1优化指针跳转.html` - 内存工具 v2.1 优化指针跳转
 - 图标文件（`icon.png`, `icon32.ico`, `icon512.ico`）
 
 ### dyb
